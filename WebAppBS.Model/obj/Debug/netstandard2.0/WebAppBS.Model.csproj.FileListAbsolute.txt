@@ -1,0 +1,9 @@
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\bin\Debug\netstandard2.0\WebAppBS.Model.deps.json
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\bin\Debug\netstandard2.0\WebAppBS.Model.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\bin\Debug\netstandard2.0\WebAppBS.Model.pdb
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\obj\Debug\netstandard2.0\WebAppBS.Model.csprojAssemblyReference.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\obj\Debug\netstandard2.0\WebAppBS.Model.AssemblyInfoInputs.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\obj\Debug\netstandard2.0\WebAppBS.Model.AssemblyInfo.cs
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\obj\Debug\netstandard2.0\WebAppBS.Model.csproj.CoreCompileInputs.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\obj\Debug\netstandard2.0\WebAppBS.Model.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS.Model\obj\Debug\netstandard2.0\WebAppBS.Model.pdb

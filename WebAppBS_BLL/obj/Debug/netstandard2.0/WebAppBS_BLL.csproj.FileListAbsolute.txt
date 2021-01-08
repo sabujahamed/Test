@@ -1,0 +1,14 @@
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppBS_BLL.deps.json
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppBS_BLL.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppBS_BLL.pdb
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppBS.Model.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppDBContext.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppBS.Model.pdb
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\bin\Debug\netstandard2.0\WebAppDBContext.pdb
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.csprojAssemblyReference.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.AssemblyInfoInputs.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.AssemblyInfo.cs
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.csproj.CoreCompileInputs.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.csproj.CopyComplete
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppBS_BLL\obj\Debug\netstandard2.0\WebAppBS_BLL.pdb

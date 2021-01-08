@@ -1,0 +1,12 @@
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\bin\Debug\netstandard2.0\WebAppDBContext.deps.json
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\bin\Debug\netstandard2.0\WebAppDBContext.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\bin\Debug\netstandard2.0\WebAppDBContext.pdb
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\bin\Debug\netstandard2.0\WebAppBS.Model.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\bin\Debug\netstandard2.0\WebAppBS.Model.pdb
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.csprojAssemblyReference.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.AssemblyInfoInputs.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.AssemblyInfo.cs
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.csproj.CoreCompileInputs.cache
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.csproj.CopyComplete
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.dll
+C:\Users\FAS-AHAMED\source\repos\WebAppBS\WebAppDBContext\obj\Debug\netstandard2.0\WebAppDBContext.pdb
